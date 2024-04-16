@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="942" height="169" viewBox="0 0 942 169">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 37.491px;
+        opacity: 0.1;
+        fill: #6e6e6e;
+        text-anchor: end;
+        font-family: KenyanCoffeeRg-BoldItalic, KenyanCoffeeRg;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="testimonials" class="cls-1" transform="matrix(5.557, 0, 0, 5.557, 917.3, 166.893)"><tspan x="0">testimonials</tspan></text>
+</svg>

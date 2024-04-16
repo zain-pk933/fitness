@@ -31,3 +31,15 @@ body {
     text-wrap: balance;
   }
 }
+.parent{
+  max-width: 1284px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.parent-container {
+  background-image: url('bg-shop.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
